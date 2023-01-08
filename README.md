@@ -9,7 +9,7 @@ This project tests the Google Search page using [Selenium](https://www.selenium.
 ## Installing and running the tests
 After installing the prerequisites, run the installation of the dependencies of the project. In the main folder of the project, run the following command
 
-`mvn clean install -dSkipTests`
+`mvn clean install -DskipTests`
 
 To execute the tests, run:
 
